@@ -20,7 +20,7 @@ header("Location: index.php");
 <h2>Add Citizen</h2>
 
 <form method="POST">
-
+fffubb
     Name:
     <input type="text" name="name" required>
     <br><br>
